@@ -1,0 +1,9 @@
+E:\database\BankAppLayerArchetec\BankAppLayerArchetec\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\database\BankAppLayerArchetec\BankAppLayerArchetec\obj\x86\Debug\BankAppLayerArchetec.Properties.Resources.resources
+E:\database\BankAppLayerArchetec\BankAppLayerArchetec\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\database\BankAppLayerArchetec\BankAppLayerArchetec\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\database\BankAppLayerArchetec\BankAppLayerArchetec\bin\Debug\BankAppLayerArchetec.exe
+E:\database\BankAppLayerArchetec\BankAppLayerArchetec\bin\Debug\BankAppLayerArchetec.pdb
+E:\database\BankAppLayerArchetec\BankAppLayerArchetec\obj\x86\Debug\BankAppLayerArchetec.exe
+E:\database\BankAppLayerArchetec\BankAppLayerArchetec\obj\x86\Debug\BankAppLayerArchetec.pdb
+E:\database\BankAppLayerArchetec\BankAppLayerArchetec\obj\x86\Debug\BankAppLayerArchetec.CustomerAndAccountInformationUI.resources
